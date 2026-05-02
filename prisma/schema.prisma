@@ -1,0 +1,2 @@
+// Prisma is intentionally not used in this project.
+// Persistence is implemented with direct SQL via pg in lib/database.ts.
